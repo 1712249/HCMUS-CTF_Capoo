@@ -27,8 +27,6 @@ HCMUS-CTF{hello_from_the_other_side}
 ## Factorization Revenge
 - Ta có:
 - ![alt text](https://github.com/1712249/HCMUS-CTF_Capoo/blob/master/aquawind0130/Factorization%20Revenge.png)
-- Do e nhỏ nên ta thử với từng x=0,1,2,.. sao cho m nguyên
-- Chạy code thử với x=1 thì m nguyên
 - Giải phương trình X^2-ddX-n=0, được 2 nghiệm là p và -q
 - Từ p và q tìm được d, giải ra m
 - Dùng hàm long_to_str để giải ra flag
